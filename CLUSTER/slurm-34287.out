@@ -1,0 +1,44 @@
+cpu
+
+Epoch 1/20
+Train Loss: 0.5030 | Train Acc: 0.8137
+Val Loss: 0.3435 | Val Acc: 0.8683
+Model saved!
+
+Epoch 2/20
+Train Loss: 0.2918 | Train Acc: 0.8978
+Val Loss: 0.3007 | Val Acc: 0.8928
+Model saved!
+
+Epoch 3/20
+Train Loss: 0.2258 | Train Acc: 0.9225
+Val Loss: 0.3003 | Val Acc: 0.8944
+Model saved!
+
+Epoch 4/20
+Train Loss: 0.1873 | Train Acc: 0.9371
+Val Loss: 0.2903 | Val Acc: 0.8956
+Model saved!
+
+Epoch 5/20
+Train Loss: 0.1550 | Train Acc: 0.9490
+Val Loss: 0.2892 | Val Acc: 0.9050
+Model saved!
+
+Epoch 6/20
+Train Loss: 0.1505 | Train Acc: 0.9503
+Val Loss: 0.2823 | Val Acc: 0.8978
+Model saved!
+
+Epoch 7/20
+Train Loss: 0.1485 | Train Acc: 0.9505
+Val Loss: 0.2943 | Val Acc: 0.9006
+
+Epoch 8/20
+Train Loss: 0.1523 | Train Acc: 0.9478
+Val Loss: 0.2985 | Val Acc: 0.8972
+
+Epoch 9/20
+Train Loss: 0.1575 | Train Acc: 0.9453
+Val Loss: 0.3153 | Val Acc: 0.8989
+Early stopping triggered.
