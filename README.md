@@ -34,8 +34,6 @@ The best model was loaded from the saved checkpoint and evaluated on the test se
 
 A **confusion matrix** was generated to analyze misclassifications. The results indicate strong classification performance, with most misclassified samples belonging to visually similar or textually ambiguous categories. The confusion matrix is presented below:
 
-*Insert Confusion Matrix Image Here*
-
 **5. Observations and Key Findings**
 - The model achieved a **high classification accuracy of 86%** on the test set, demonstrating effective learning from multi-modal inputs.
 - **Validation loss started increasing after Epoch 6**, indicating potential overfitting.
