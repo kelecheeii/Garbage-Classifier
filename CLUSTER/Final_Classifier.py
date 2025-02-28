@@ -248,7 +248,7 @@ best_loss = float("inf")
 patience = 3
 counter = 0
 
-# Training loop (kept in **your structure**)
+# Training loop 
 if __name__ == "__main__":
     for epoch in range(20):
         print(f"\nEpoch {epoch+1}/20")
