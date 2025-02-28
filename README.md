@@ -1,4 +1,4 @@
-*Report on Multi-Modal Garbage Classification Model Training and Evaluation
+**Report on Multi-Modal Garbage Classification Model Training and Evaluation**
 
 **1. Introduction**
 This report presents the training and evaluation of a multi-modal classification model that integrates text and image data for garbage classification. The model is trained and validated using a dataset containing four categories: Black, Blue, Green, and TTR. The primary objective was to improve classification accuracy while minimizing validation loss.
